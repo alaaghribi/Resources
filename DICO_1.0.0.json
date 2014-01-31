@@ -12,5 +12,19 @@
             "Favorites.title": "Favoris",
             "Account.title": "Compte"
         }
+    ],
+    "DicoEN": [
+        {
+            "tabbar.doolesh": "AlouuuEN",
+            "tabbar.plan": "SaleemEN",
+            "tabbar.mytrip": "MyTrip",
+            "tabbar.favorites": "Favoris",
+            "tabbar.compte": "Compte",
+            "Doolesh.title": "Doolesh",
+            "Plan.title": "Plan",
+            "MyTrip.title": "MyTrip",
+            "Favorites.title": "Favoris",
+            "Account.title": "Compte"
+        }
     ]
 }
