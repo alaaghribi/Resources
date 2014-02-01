@@ -1,8 +1,8 @@
 {
     "DicoFR": [
         {
-            "tabbar.doolesh": "Alouuu",
-            "tabbar.plan": "Saleem",
+            "tabbar.doolesh": "Doolesh",
+            "tabbar.plan": "Plan",
             "tabbar.calendrier": "Calendrier",
             "tabbar.favorites": "Favoris",
             "tabbar.reservations": "Mes réservations",
@@ -15,16 +15,16 @@
     ],
     "DicoEN": [
         {
-            "tabbar.doolesh": "AlouuuEN",
-            "tabbar.plan": "SaleemEN",
-            "tabbar.mytrip": "MyTrip",
-            "tabbar.favorites": "Favoris",
-            "tabbar.compte": "Compte",
+            "tabbar.doolesh": "Doolesh",
+            "tabbar.plan": "Plan",
+            "tabbar.favorites": "Calendar",
+            "tabbar.favorites": "Favorites",
+            "tabbar.reservations": "My reservations",
             "Doolesh.title": "Doolesh",
             "Plan.title": "Plan",
             "MyTrip.title": "MyTrip",
-            "Favorites.title": "Favoris",
-            "Account.title": "Compte"
+            "Favorites.title": "Favorites",
+            "Account.title": "Account"
         }
     ]
 }
