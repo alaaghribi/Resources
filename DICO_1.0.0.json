@@ -8,9 +8,9 @@
             "tabbar.reservations": "Mes réservations",
             "Doolesh.title": "Doolesh",
             "Plan.title": "Plan",
-            "MyTrip.title": "MyTrip",
+            "Calendrier.title": "Calendrier",
             "Favorites.title": "Favoris",
-            "Account.title": "Compte"
+            "Reservations.title": "Réservations"
         }
     ],
     "DicoEN": [
@@ -22,9 +22,9 @@
             "tabbar.reservations": "My reservations",
             "Doolesh.title": "Doolesh",
             "Plan.title": "Plan",
-            "MyTrip.title": "MyTrip",
+            "Calendrier.title": "Calendar",
             "Favorites.title": "Favorites",
-            "Account.title": "Account"
+            "Reservations.title": "Reservations"
         }
     ]
 }
