@@ -4,94 +4,94 @@
       },
       { "id" : 1,
         "image" : "beja.png",
-        "name" : "Béja "
+        "name" : "Béja"
       },
       { "id" : 2,
         "image" : "ben_arous.png",
-        "name" : "Ben Arous "
+        "name" : "Ben Arous"
       },
       { "id" : 3,
         "image" : "bizerte.png",
-        "name" : "Bizerte "
+        "name" : "Bizerte"
       },
       { "id" : 4,
         "image" : "gabes.png",
-        "name" : "Gabès "
+        "name" : "Gabès"
       },
       { "id" : 5,
         "image" : "gafsa.png",
-        "name" : "Gafsa "
+        "name" : "Gafsa"
       },
       { "id" : 6,
         "image" : "jendouba.png",
-        "name" : "Jendouba "
+        "name" : "Jendouba"
       },
       { "id" : 7,
         "image" :"kairouan.png",
-        "name" : "Kairouan "
+        "name" : "Kairouan"
       },
       { "id" : 8,
         "image" : "kasserine.png",
-        "name" : "Kasserine "
+        "name" : "Kasserine"
       },
       { "id" : 9,
         "image" : "kebili.png",
-        "name" : "Kébili "
+        "name" : "Kébili"
       },
       { "id" : 10,
         "image" : "la_manouba.png",
-        "name" : "La Manouba "
+        "name" : "La Manouba"
       },
       { "id" : 11,
         "image" : "le_kef.png",
-        "name" : "Le Kef "
+        "name" : "Le Kef"
       },
       { "id" : 12,
         "image" : "mahdia.png",
-        "name" : "Mahdia "
+        "name" : "Mahdia"
       },
       { "id" : 13,
         "image" : "medenine.png",
-        "name" : "Médenine "
+        "name" : "Médenine"
       },
       { "id" : 14,
         "image" : "monastir.png",
-        "name" : "Monastir "
+        "name" : "Monastir"
       },
       { "id" : 15,
         "image" : "nabeul.png",
-        "name" : "Nabeul "
+        "name" : "Nabeul"
       },
       { "id" : 16,
         "image" : "sfax.png",
-        "name" : "Sfax "
+        "name" : "Sfax"
       },
       { "id" : 17,
         "image" : "sidi_bouzid.png",
-        "name" : "Sidi Bouzid "
+        "name" : "Sidi Bouzid"
       },
       { "id" : 18,
         "image" : "siliana.png",
-        "name" : "Siliana "
+        "name" : "Siliana"
       },
       { "id" : 19,
         "image" : "sousse.png",
-        "name" : "Sousse "
+        "name" : "Sousse"
       },
       { "id" : 20,
         "image" : "tataouine.png",
-        "name" : "Tataouine "
+        "name" : "Tataouine"
       },
       { "id" : 21,
         "image" : "tozeur.png",
-        "name" : "Tozeur "
+        "name" : "Tozeur"
       },
       { "id" : 22,
         "image" : "tunis.png",
-        "name" : "Tunis "
+        "name" : "Tunis"
       },
       { "id" : 23,
         "image" : "zaghouan.png",
-        "name" : "Zaghouan "
+        "name" : "Zaghouan"
       }
     ] }
