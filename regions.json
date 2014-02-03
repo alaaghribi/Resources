@@ -4,7 +4,7 @@
       },
       { "id" : 1,
         "image" : "beja.png",
-        "name" : "Béja"
+        "name" : "Beja"
       },
       { "id" : 2,
         "image" : "ben_arous.png",
@@ -16,7 +16,7 @@
       },
       { "id" : 4,
         "image" : "gabes.png",
-        "name" : "Gabès"
+        "name" : "Gabes"
       },
       { "id" : 5,
         "image" : "gafsa.png",
@@ -36,7 +36,7 @@
       },
       { "id" : 9,
         "image" : "kebili.png",
-        "name" : "Kébili"
+        "name" : "Kebili"
       },
       { "id" : 10,
         "image" : "la_manouba.png",
@@ -52,7 +52,7 @@
       },
       { "id" : 13,
         "image" : "medenine.png",
-        "name" : "Médenine"
+        "name" : "Medenine"
       },
       { "id" : 14,
         "image" : "monastir.png",
