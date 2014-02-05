@@ -1,5 +1,5 @@
 {
-    "DicoFR": [
+    "DicoFR":
         {
             "tabbar.doolesh": "Doolesh",
             "tabbar.plan": "Plan",
@@ -45,9 +45,8 @@
             "para.conditions" : "Conditions générales",
             "para.apropos" : "A propos",
             "para.aide" : "Aide"
-        }
-    ],
-    "DicoEN": [
+        },
+    "DicoEN": 
         {
             "tabbar.doolesh": "Doolesh",
             "tabbar.plan": "Plan",
@@ -60,5 +59,4 @@
             "Favorites.title": "Favorites",
             "Reservations.title": "Reservations"
         }
-    ]
 }
