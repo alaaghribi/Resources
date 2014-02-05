@@ -1,6 +1,7 @@
 {
-    "DicoFR":
+    "fr":
         {
+            "fr": "Français",	
             "tabbar.doolesh": "Doolesh",
             "tabbar.plan": "Plan",
             "tabbar.calendrier": "Calendrier",
@@ -47,8 +48,9 @@
             "para.apropos" : "A propos",
             "para.aide" : "Aide"
         },
-    "DicoEN": 
+    "en": 
         {
+            "en": "English",
             "tabbar.doolesh": "Doolesh",
             "tabbar.plan": "Plan",
             "tabbar.calendrier": "Calendar",
