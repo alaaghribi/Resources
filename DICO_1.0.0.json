@@ -34,7 +34,17 @@
             "Tataouine" :"Tataouine",
             "Tozeur" :"Tozeur",
             "Tunis" :"Tunis",
-            "Zaghouan" :"Zaghouan"
+            "Zaghouan" :"Zaghouan",
+            "para.langue" : "Langue",
+            "para.push" : "Notifications Push",
+            "para.offline" : "Mode hors ligne",
+            "para.maps" : "Gestion des maps",
+            "para.compte" : "Mon compte Doolesh",
+            "para.partage" : "Partager l'application",
+            "para.noter" : "Noter l'application",
+            "para.conditions" : "Conditions générales",
+            "para.apropos" : "A propos",
+            "para.aide" : "Aide"
         }
     ],
     "DicoEN": [
