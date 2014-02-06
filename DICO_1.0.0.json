@@ -52,7 +52,8 @@
             "para.section1" :"Paramètres de l'utilisateur",
             "para.section2" :"Général",
             "para.section3": " ",
-            "Account.title" : "Compte"
+            "Account.title" : "Compte",
+            "Signup.title": "S'inscrire"
         },
     "en": 
         {
@@ -107,7 +108,8 @@
             "para.section1" :"User settings",
             "para.section2" :"General",
             "para.section3": " ",
-            "Account.title" : "Account"
+            "Account.title" : "Account",
+            "Signup.title": "Signup"
         }
 		
 }
