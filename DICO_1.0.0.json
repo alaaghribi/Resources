@@ -53,11 +53,11 @@
             "para.section2" :"Général",
             "para.section3": " ",
             "Account.title" : "Compte",
-            "Account.password":"Mot de passe",
-            "Account.submit":"Valider",
-            "Account.signup" : "S'inscrire",
-            "Account.forgotpass": "Mot de passe oublié?",
-            "Account.newuser" : "Nouvel utilisateur?",
+            "AccountLogin.password":"Mot de passe",
+            "AccountLogin.submit":"Valider",
+            "AccountLogin.signup" : "S'inscrire",
+            "AccountLogin.forgotpass": "Mot de passe oublié?",
+            "AccountLogin.newuser" : "Nouvel utilisateur?",
             "Signup.title": "S'inscrire"
         },
     "en": 
@@ -113,12 +113,12 @@
             "para.section1" :"User settings",
             "para.section2" :"General",
             "para.section3": " ",
-            "Account.title" : "Account",
-            "Account.password":"Password",
-            "Account.submit":"Submit",
-            "Account.signup" : "Singup",
-            "Account.forgotpass": "Forgot password?",
-            "Account.newuser" : "New user?",
+            "AccountLogin.title" : "Account",
+            "AccountLogin.password":"Password",
+            "AccountLogin.submit":"Submit",
+            "AccountLogin.signup" : "Singup",
+            "AccountLogin.forgotpass": "Forgot password?",
+            "AccountLogin.newuser" : "New user?",
             "Signup.title": "Signup"
         }
 		
