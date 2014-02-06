@@ -51,7 +51,8 @@
             "para.section0" :"Paramètres de l'application",
             "para.section1" :"Paramètres de l'utilisateur",
             "para.section2" :"Général",
-            "para.section3": " "
+            "para.section3": " ",
+            "Account.title" : "Comtpe"
         },
     "en": 
         {
@@ -105,7 +106,8 @@
             "para.section0" :"Application settings",
             "para.section1" :"User settings",
             "para.section2" :"General",
-            "para.section3": " "
+            "para.section3": " ",
+            "Account.title" : "Account"
         }
 		
 }
