@@ -47,7 +47,10 @@
             "para.noter" : "Noter l'application",
             "para.conditions" : "Conditions générales",
             "para.apropos" : "A propos",
-            "para.aide" : "Aide"
+            "para.aide" : "Aide",
+            "para.section0" :"Paramètres de l'application",
+            "para.section1" :"Paramètres de l'utilisateur",
+            "para.section2" :"Général"
         },
     "en": 
         {
@@ -97,7 +100,10 @@
             "para.noter" : "Note application",
             "para.conditions" : "Terms and Conditions",
             "para.apropos" : "About",
-            "para.aide" : "Help"
+            "para.aide" : "Help",
+            "para.section0" :"Application settings",
+            "para.section1" :"User settings",
+            "para.section2" :"General"
         }
 		
 }
