@@ -50,7 +50,8 @@
             "para.aide" : "Aide",
             "para.section0" :"Paramètres de l'application",
             "para.section1" :"Paramètres de l'utilisateur",
-            "para.section2" :"Général"
+            "para.section2" :"Général",
+            "para.section3": " "
         },
     "en": 
         {
@@ -103,7 +104,8 @@
             "para.aide" : "Help",
             "para.section0" :"Application settings",
             "para.section1" :"User settings",
-            "para.section2" :"General"
+            "para.section2" :"General",
+            "para.section3": " "
         }
 		
 }
