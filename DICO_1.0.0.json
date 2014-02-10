@@ -58,7 +58,17 @@
             "AccountLogin.signup" : "S'inscrire",
             "AccountLogin.forgotpass": "Mot de passe oublié?",
             "AccountLogin.newuser" : "Nouvel utilisateur?",
-            "Signup.title": "S'inscrire"
+            "Signup.title": "S'inscrire",
+			"Signup.firstname": "Nom",
+			"Signup.lastname": "Prénom",
+			"Signup.email": "Email",
+			"Signup.sex": "Sexe",
+			"Signup.password": "Mot de passe",
+			"Signup.phone": "Téléphone",
+			"Signup.country": "Pays",
+			"Signup.address": "Adresse",
+			"Signup.postal": "Code postal",
+			"Signup.newsletter": "S'inscrire à la newsletter"
         },
     "en": 
         {
@@ -119,7 +129,17 @@
             "AccountLogin.signup" : "Singup",
             "AccountLogin.forgotpass": "Forgot password?",
             "AccountLogin.newuser" : "New user?",
-            "Signup.title": "Signup"
+            "Signup.title": "Signup",
+		"Signup.firstname": "First name",
+			"Signup.lastname": "Last name",
+			"Signup.email": "Email",
+			"Signup.sex": "Sex",
+			"Signup.password": "Password",
+			"Signup.phone": "Phone",
+			"Signup.country": "Country",
+			"Signup.address": "Address",
+			"Signup.postal": "Postal code",
+			"Signup.newsletter": "Subscribe to our newsletter"
         }
 		
 }
