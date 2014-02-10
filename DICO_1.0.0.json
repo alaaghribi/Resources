@@ -126,7 +126,7 @@
             "AccountLogin.title" : "Account",
             "AccountLogin.password":"Password",
             "AccountLogin.submit":"Submit",
-            "AccountLogin.signup" : "Singup",
+            "AccountLogin.signup" : "Signup",
             "AccountLogin.forgotpass": "Forgot password?",
             "AccountLogin.newuser" : "New user?",
             "Signup.title": "Signup",
