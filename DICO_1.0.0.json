@@ -137,7 +137,7 @@
 		"Signup.firstname": "First name",
 			"Signup.lastname": "Last name",
 			"Signup.email": "Email",
-			"Signup.sex": "Sex",
+			"Signup.sex": "Gender",
 			"Signup.password": "Password",
 			"Signup.phone": "Phone",
 			"Signup.country": "Country",
