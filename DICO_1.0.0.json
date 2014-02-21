@@ -70,7 +70,24 @@
 			"Signup.country": "Pays",
 			"Signup.address": "Adresse",
 			"Signup.postal": "Code postal",
-			"Signup.newsletter": "S'inscrire à la newsletter"
+			"Signup.newsletter": "S'inscrire à la newsletter",
+			"error.facebook.account":"Ce mail est associé à un compte facebook",
+"check.mail.password":"Veuillez vérifier votre mail et/ou mot de passe",
+"succes.login.mail":"SUCCES login mail",
+"succes.login.facebook":"SUCCES login facebook",
+"error.doolesh.account":"Ce mail est associé à un compte Doolesh",
+"error.suggest.inscription":"Vous n'avez pas un compte doolesh voulez vous en créer un",
+"succes.inscription.mail":"SUCCES inscription mail",
+"error.inscription.mailexist":"Echec inscription mail : mail existe déja",
+"succes.inscription.facebook":"SUCCES inscription facebook",
+"error.inscription.mailexist":"Echec inscription facebook",
+"error.forget.wrongmail":"forget password : mail incorrect",
+"succes.forget.checkmail":"Veuillez vérifier votre boite mail",
+"error.forget.sendmail":"Echec envoi du mail",
+"succes.update.mail":"SUCCES update mail",
+"error.update.mail":"Echec update mail : mail introuvable",
+"succes.update.facebook":"SUCCES update facebook",
+"error.update.facebook":"Echec update Facebook : mail introuvable"
         },
     "en": 
         {
@@ -144,7 +161,24 @@
 			"Signup.country": "Country",
 			"Signup.address": "Address",
 			"Signup.postal": "Postal code",
-			"Signup.newsletter": "Subscribe to our newsletter"
+			"Signup.newsletter": "Subscribe to our newsletter",
+			"error.facebook.account":"This mail is associated to a Facebook account",
+"check.mail.password":"Please check your mail and/or password",
+"succes.login.mail":"SUCCES login mail",
+"succes.login.facebook":"SUCCES login facebook",
+"error.doolesh.account":"This mail is associated to a Doolesh account",
+"error.suggest.inscription":"You don't have a Doolesh account, would you like a create one?",
+"succes.inscription.mail":"SUCCES inscription mail",
+"error.inscription.mailexist":"This mail is already used",
+"succes.inscription.facebook":"SUCCES inscription facebook",
+"error.inscription.mailexist":"Echec inscription facebook",
+"error.forget.wrongmail":"Incorrect mail",
+"succes.forget.checkmail":"Please check your mail inbox",
+"error.forget.sendmail":"Echec envoi du mail",
+"succes.update.mail":"SUCCES update mail",
+"error.update.mail":"Can't find mail",
+"succes.update.facebook":"SUCCES update facebook",
+"error.update.facebook":"Can't find mail"
         }
 		
 }
